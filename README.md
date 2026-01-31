@@ -10,32 +10,31 @@
 
 ---
 
-### 🗝️ Enter Password
-
-👉 [ PASSWORD: **itachi** ](#itachi)
-
-👉 [ PASSWORD: **madara** ](#madara)
-
+## 🗝️ Enter Password
 <p align="center">
-  <sub>Hint: Silent. Loyal. Shadow.</sub>
+Choose wisely. One opens the system. One traps you forever.
 </p>
 
 ---
 
-<a name="itachi"></a>
 <details>
-<summary>✅ ACCESS GRANTED</summary>
+<summary>👉 PASSWORD: <b>itachi</b></summary>
+
+<br>
 
 <p align="center">
-  <img src="https://i.imgur.com/0Z8FQ7F.png" width="70%" />
+  <img src="https://wallpapercave.com/wp/wp6591926.jpg" width="70%" />
 </p>
 
 <p align="center">
-  <code>Welcome Nobita</code><br>
+  <code>ACCESS GRANTED</code><br><br>
+  Welcome Nobita.<br>
   System successfully unlocked.
 </p>
 
 ```text
 User: nobitaisback
 Status: Active
-Access: GrantedWarning: Unauthorized access detected
+Access: Granted
+Rank: Shadow EliteWARNING: Unauthorized access detected
+System integrity compromised
