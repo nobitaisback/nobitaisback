@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to the Profile of Nobita
 
-<!--
-**nobitaisback/nobitaisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 😄  
+Welcome to my GitHub profile — **nobitaisback**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👤 Name: Nobita  
+- 🎮 Gaming & Esports Enthusiast  
+- 💻 Learning GitHub & App Development  
+- 🔥 Building step by step, no shortcuts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What You’ll Find Here
+- 📂 My projects  
+- 🛠️ Practice & experiments  
+- 📱 App development work  
+- 🎯 My learning journey  
+
+## 🤝 Let’s Connect
+Thanks for visiting my profile!  
+Stay consistent. Stay hungry. 🚀
