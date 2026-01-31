@@ -12,9 +12,9 @@
 
 ### 🗝️ Enter Password
 
-👉 [ PASSWORD: **itachi** ](#unlock)
+👉 [ PASSWORD: **itachi** ](#itachi)
 
-👉 [ PASSWORD: **madara** ](#denied)
+👉 [ PASSWORD: **madara** ](#madara)
 
 <p align="center">
   <sub>Hint: Silent. Loyal. Shadow.</sub>
@@ -22,25 +22,12 @@
 
 ---
 
-<a name="unlock"></a>
-
-<h1 align="center">✅ ACCESS GRANTED</h1>
-
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp6591926.jpg" width="70%" />
-</p>
-
-<p align="center">
-  <code>Welcome Nobita</code><br>
-  System successfully unlocked.
-</p>
-
 <a name="itachi"></a>
 <details>
-<summary><h2>✅ ACCESS GRANTED</h2></summary>
+<summary>✅ ACCESS GRANTED</summary>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp6591926.jpg" width="70%" />
+  <img src="https://i.imgur.com/0Z8FQ7F.png" width="70%" />
 </p>
 
 <p align="center">
@@ -48,20 +35,7 @@
   System successfully unlocked.
 </p>
 
-```bash
+```text
 User: nobitaisback
-Rank: Shadow Elite
-Status: Active<a name="madara"></a>
-<details>
-<summary><h2>❌ ACCESS DENIED</h2></summary>
-
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp1812945.jpg" width="70%" />
-</p>
-
-<p align="center">
-  <code>Wrong password detected.</code><br>
-  Genjutsu activated.
-</p>
-
-</details>
+Status: Active
+Access: GrantedWarning: Unauthorized access detected
